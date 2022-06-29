@@ -1,4 +1,6 @@
-# A* Path Finding Algorithm for 2D Grid World
+## Ex no: 4
+## Date: 17/5/2022
+# <p align="center">A* Path Finding Algorithm for 2D Grid World
 ## AIM
 
 To develop a code to find the route from the source to the destination point using A* algorithm for 2D grid world.
